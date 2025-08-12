@@ -1,3 +1,10 @@
+# THIS ACTION IS ARCHIVED
+Use `go-version-file` from the `setup-go` action.
+
+More information [here](https://github.com/actions/setup-go/blob/8e57b58e57be52ac95949151e2777ffda8501267/README.md#getting-go-version-from-the-gomod-file).
+
+---
+
 # go-mod-details
 ---
 An action that returns details about a `go.mod` file.
